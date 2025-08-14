@@ -8,9 +8,9 @@
 
 Markendation is an intelligent grocery shopping platform designed as a personal project to help users find optimal stores and calculate costs for their ingredient shopping lists.
 
-![Screenshot 2025-08-13 at 16.02.10.png](Workshop%20Proposals%2024ec60951d8880fa9f17e09a1330f1d6/Screenshot_2025-08-13_at_16.02.10.png)
+![Screenshot 2025-08-13 at 16.02.10.png](https://github.com/ngphthao10/FCJ-Workshop-MARKENDATION/blob/main/attachments/project_summary.png)
 
-## Project Overview
+## 2. Project Overview
 
 ### Business Objectives
 
@@ -27,9 +27,9 @@ Markendation is an intelligent grocery shopping platform designed as a personal 
 - **User Authentication**: Secure Google OAuth integration
 - **Administrative Dashboard**: Comprehensive store management and analytics
 
-## AWS Cloud Architecture
+## 3. AWS Cloud Architecture
 
-![AWS-MARKENDATION.drawio.png](Workshop%20Proposals%2024ec60951d8880fa9f17e09a1330f1d6/AWS-MARKENDATION.drawio.png)
+![AWS-MARKENDATION.drawio.png](https://github.com/ngphthao10/FCJ-Workshop-MARKENDATION/blob/main/attachments/AWS-MARKENDATION.drawio.png)
 
 ### Simplified Multi-Tier Architecture
 
@@ -58,7 +58,7 @@ Markendation is an intelligent grocery shopping platform designed as a personal 
 - **Amazon SQS**: Message queuing
 - **Amazon CloudWatch**: Basic monitoring and logging
 
-## Microservices Architecture
+## 4. Microservices Architecture
 
 ### Core Service Components
 
@@ -91,7 +91,7 @@ Markendation is an intelligent grocery shopping platform designed as a personal 
 - Lightweight recommendation engine
 - Event-driven processing
 
-## Data Architecture & Storage Strategy
+## 5. Data Architecture & Storage Strategy
 
 ### Primary Database: Amazon DynamoDB
 
@@ -112,7 +112,7 @@ Markendation is an intelligent grocery shopping platform designed as a personal 
 - **Scheduled Jobs**: Daily price updates and data cleanup
 - **Basic Analytics**: Simple usage statistics and reporting
 
-## Cost Analysis & Budget
+## 6. Cost Analysis & Budget
 
 ### Estimated Monthly Operational Costs
 
